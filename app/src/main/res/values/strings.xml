@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Project</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="app_id">1667563430157493</string>
+    <string name="title_activity_my_application">MyApplication</string>
+    <string name="title_activity_test_fb_share">TestFbShareActivity</string>
+    <string name="title_activity_camera">CameraActivity</string>
+    <string name="title_activity_fb_test">FbTestActivity</string>
+    <string name="title_activity_capture">Capture</string>
+    <string name="title_activity_location">LocationActivity</string>
+</resources>
